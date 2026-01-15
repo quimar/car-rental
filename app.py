@@ -22,7 +22,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.title("🚗 Final Business Evaluation: Sander's Car Rental Acquisition")
+st.title("🚗 Final Business Evaluation: Car Rental Acquisition")
 st.markdown("Use this tool to stress-test the acquisition. All variables are based on the meeting notes from Jan 15, 2026.")
 
 # --- SIDEBAR: GLOBAL STRATEGIC SETTINGS ---
